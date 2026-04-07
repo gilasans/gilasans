@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+My+Portofolio!+👋;+I'm+Muhammad+Saefulloh!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Ciamis </h3>
+<h3 align="center">A passionate Software Engineering from Ciamis </h3>
 
 <br/>
 
@@ -38,7 +38,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vue,wordpress,php,laravel" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flutter" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flutter" />
+        <img src="https://skillicons.dev/icons?i=postman,linux,docker,kali" /><br>
 </div>
 
 <br/>
