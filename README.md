@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **PT Nusa Raya Cipta**
  
- 🌱 I’m currently learning **flutter, Python, C/C++**
+ 🌱 I’m currently learning **flutter, Python, PHP**
 
 💬 Ask me about **Node.js, React, Laravel... or anything [here](https://github.com/gilasans)**
 
-⚡ Fun fact **Keep playing Mobile Legends even if you loserake with loads**
+⚡ Fun fact **Turning cups of coffee into lines of code since **
 
  </div>
  
